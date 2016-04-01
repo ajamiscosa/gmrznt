@@ -1,0 +1,25 @@
+.header
+{
+    background: transparent url("/img/bg_gnb.gif") repeat-x scroll 0px 0px;
+    height: 40px;
+}
+
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
+
+.gnb {
+    position: relative;
+    z-index: 2;
+    display: block;
+    width: 980px;
+    height: 240px;
+    overflow: hidden;
+    background: url('/img/bg_gnb_160307.png') no-repeat 0 0;
+}
+
+body
+{
+    background: url('/img/bg_body_160303.jpg') no-repeat center 40px;
+}
