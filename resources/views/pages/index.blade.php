@@ -2,8 +2,7 @@
 
 @section('body')
     <div class="row">
-        <div class="gnb col-centered" >
-
+        <div class="headersubnav col-centered" >
         </div>
     </div>
 @endsection
